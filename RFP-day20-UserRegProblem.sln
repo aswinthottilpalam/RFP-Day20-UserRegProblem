@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFP-day20-UserRegProblem", "RFP-day20-UserRegProblem\RFP-day20-UserRegProblem.csproj", "{8453707B-BBFC-469E-A27B-6F6C1CE57E5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRegTest", "UnitTest1\UserRegTest.csproj", "{25B382CD-AA4B-4016-961D-321CA585F21C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8453707B-BBFC-469E-A27B-6F6C1CE57E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8453707B-BBFC-469E-A27B-6F6C1CE57E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8453707B-BBFC-469E-A27B-6F6C1CE57E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8453707B-BBFC-469E-A27B-6F6C1CE57E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B382CD-AA4B-4016-961D-321CA585F21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B382CD-AA4B-4016-961D-321CA585F21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B382CD-AA4B-4016-961D-321CA585F21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B382CD-AA4B-4016-961D-321CA585F21C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DE46DB2-2CFF-4CB6-8BAB-C649B157237E}
+	EndGlobalSection
+EndGlobal

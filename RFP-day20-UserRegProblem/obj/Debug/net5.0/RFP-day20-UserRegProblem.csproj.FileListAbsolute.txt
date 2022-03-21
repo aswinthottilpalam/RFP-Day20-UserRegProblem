@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\bin\Debug\net5.0\RFP-day20-UserRegProblem.exe
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\bin\Debug\net5.0\RFP-day20-UserRegProblem.deps.json
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\bin\Debug\net5.0\RFP-day20-UserRegProblem.runtimeconfig.json
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\bin\Debug\net5.0\RFP-day20-UserRegProblem.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\bin\Debug\net5.0\RFP-day20-UserRegProblem.dll
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\bin\Debug\net5.0\RFP-day20-UserRegProblem.pdb
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\obj\Debug\net5.0\RFP-day20-UserRegProblem.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\obj\Debug\net5.0\RFP-day20-UserRegProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\obj\Debug\net5.0\RFP-day20-UserRegProblem.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\obj\Debug\net5.0\RFP-day20-UserRegProblem.AssemblyInfo.cs
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\obj\Debug\net5.0\RFP-day20-UserRegProblem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\obj\Debug\net5.0\RFP-day20-UserRegProblem.dll
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\obj\Debug\net5.0\refint\RFP-day20-UserRegProblem.dll
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\obj\Debug\net5.0\RFP-day20-UserRegProblem.pdb
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\obj\Debug\net5.0\RFP-day20-UserRegProblem.genruntimeconfig.cache
+C:\Users\HP\Desktop\Class\RFP-day20-UserRegProblem\RFP-day20-UserRegProblem\obj\Debug\net5.0\ref\RFP-day20-UserRegProblem.dll
